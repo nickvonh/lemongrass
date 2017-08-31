@@ -14,7 +14,7 @@
     <section class="hero is-large">
       <h2 class="title">Image Gallery</h2>
       <div class="gallery">
-        <div class="image-tile" v-for="(each, index) in photos" :key="index">
+        <div class="image-tile" v-for="(each, index) in photos" :key="index" >
           <img :src="`./dist/photos/${each}`"/>
         </div>
       </div>
