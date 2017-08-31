@@ -1,0 +1,43 @@
+[{
+    "name" : "FILET MIGNON PHO",
+    "price" : 10.5
+},
+{
+    "name" : "RARE BEEF EYE ROUND PHO",
+    "price" : 8.5
+},
+{
+    "name" : "WELL DONE BEEF BRISKET PHO",
+    "price" : 8.5
+},
+{
+    "name" : "BEEF MEATBALL PHO",
+    "price" : 8.5
+},
+{
+    "name" : "ALL MEAT PHO",
+    "comment": "rare, well done, beef meatballs",
+    "price" : 10
+},
+{
+    "name" : "CHICKEN PHO",
+    "price" : 8.5
+},
+{
+    "name" : "SHRIMP PHO",
+    "price" : 8.75
+},
+{
+    "name" : "TOFU PHO",
+    "price" : 8.5
+},
+{
+    "name" : "SIMPLY NOODLES PHO",
+    "price" : 8
+},
+{
+    "name" : "VEGETARIAN PHO",
+    "comment": "(mushrooms, carrots, bok choy and tofu)",
+    "price" : 8.75
+}
+]

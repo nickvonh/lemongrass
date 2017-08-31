@@ -1,0 +1,42 @@
+[{
+    "name" : "PHO TACOS",
+    "desc" : "beef brisket in a warm flour tortilla, topped with green and white onion, cilantro and bean sprouts, drizzled with hoisin and sriracha sauce",
+    "options" : false,
+    "price" : 8
+},
+{
+    "name" : "EGG ROLLS",
+    "desc" : "deep fried rolls with vermicelli, lettuce, cilantro and pickled carrots,served with our homemade house sauce",
+    "options" : ["pork", "vegetarian"],
+    "price": 7
+},{
+    "name" : "SPRING ROLLS",
+    "desc" : "rice paper wrapped rolls with vermicelli, lettuce, shallots, bean sprouts and mint, served with our homemade peanut sauce",
+    "options" : ["shrimp", "steamed pork", "grilled pork", "shredded chicken", "shredded tofu", "fried tofu", "pure veggies", "assorted trio"],
+    "price": 7
+},
+{
+    "name" : "CRISPY CALAMARI",
+    "desc" : "calamari strips deep fried in a delicate batter seasoned with salt and pepper, sautéed with garlic, onion and jalapeños, served with a sweet chili sauce",
+    "options" : false,
+    "price": 7
+},
+{
+    "name" : "CHICKEN WINGS",
+    "desc" : "wings deep fried in a delicate batter seasoned with salt and pepper, sautéed with garlic, onion and jalapenos, served with a sweet chili sauce",
+    "options" : false,
+    "price": 8
+},
+{
+    "name" : "CRISPY SHRIMP",
+    "desc" : "de-shelled shrimp deep fried in a delicate batter seasoned with salt and pepper, sautéed with garlic, onion and jalapeños, served with a sweet chili sauce",
+    "options" : false,
+    "price": 7
+},
+{
+    "name" : "HOUSE SALAD",
+    "desc" : "diced cabbage with mint, onion, pickled carrots, shallots and crushed peanuts, served with our house vinaigrette dressing",
+    "options" : ["shredded chicken", "bbq chicken", "steamed shrimp", "steamed pork", "lemongrass tofu", "calamari"],
+    "price": 8
+}
+]

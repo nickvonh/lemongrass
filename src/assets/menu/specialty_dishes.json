@@ -1,0 +1,61 @@
+[{
+    "name" : "PORK CHOP",
+    "desc" : "marinated in garlic, oyster sauce, fish sauce and honey, pan seared, served with steamed jasmine rice and a side salad",
+    "options" : false,
+    "price" : 8.75
+},
+{
+    "name" : "STIR FRIED SHRIMP",
+    "desc" : "marinated in ginger, fish sauce, black pepper, onions and honey, stir fried, served with steamed jasmine rice and a side salad",
+    "options" : false,
+    "price": 8.75
+},
+{
+    "name" : "CRISPY SHRIMP",
+    "desc" : "de-shelled shrimp deep fried in a delicate batter, seasoned with salt and pepper, sautéed with garlic, onion and jalapeños, served with steamed jasmine rice and a side salad",
+    "options" : false,
+    "price": 8.75
+},
+{
+    "name" : "YELLOW HOUSE CURRY",
+    "desc" : "de-shelled shrimp deep fried in a delicate batter, seasoned with salt and pepper, sautéed with garlic, onion and jalapeños, served with steamed jasmine rice and a side salad",
+    "options" : ["chicken", "shrimp", "tofu"],
+    "price": 8.75
+},
+{
+    "name" : "GARLIC NOODLES",
+    "desc" : "vegetarian yellow noodles, sautéed with butter margarine and fresh garlic",
+    "options" : ["chicken","beef","shrimp","tofu","veggies"],
+    "price": 8.75
+},
+{
+    "name" : "CHICKEN SALAD",
+    "desc" : "shredded chicken breast with lettuce, cucumbers, carrots and onion, served with steamed brown rice",
+    "options" : false,
+    "price": 8.75
+},
+{
+    "name" : "VEGETABLE STIR FRY",
+    "desc" : "an assortment of vegetables marinated in oyster sauce and Asian spices, stir fried, served with steamed jasmine rice",
+    "options" : ["chicken", "beef", "shrimp", "tofu"],
+    "price": 8.75
+},
+{
+    "name" : "X.O. FILET MIGNON",
+    "desc" : "cubed filet mignon sautéed with an X.O. peanut sauce and potatoes served with steamed jasmine rice and a side salad",
+    "options" : false,
+    "price": 11
+},
+{
+    "name" : "HOUSE FRIED RICE",
+    "desc" : "fresh eggs scrambled in our Asian fried rice",
+    "options" : ["chicken","beef","shrimp","tofu"],
+    "price": 8.75
+},
+{
+    "name" : "FISH FILET",
+    "desc" : "boneless catfish, steamed in a banana leaf with black bean sauce, ginger, jalapeños, black pepper, basil, dried mushrooms and tofu, served with steamed jasmine rice and a side salad",
+    "options" : false,
+    "price": 9
+}
+]
