@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="layout">
     <section class="hero is-large is-light slanted">
-      <div class="hero-body logoHead" style="background : url('./dist/photos/header.png')">
+      <div class="hero-body logoHead" style="background-image : url('./dist/photos/header.png')">
       </div>
     </section>
     <section class="hero is-large is-light">
