@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="layout">
     <section class="hero is-large is-light slanted">
-      <div class="hero-body logoHead">
+      <div class="hero-body logoHead" style="background : url('./dist/photos/header.png')">
       </div>
     </section>
     <section class="hero is-large is-light">
@@ -48,7 +48,6 @@ export default {
 <style lang="stylus">
 @import '../node_modules/bulma-stylus/bulma.styl'
 .logoHead.hero-body
-  background url('./assets/photos/header.png')
   background-size 40%
   background-repeat no-repeat
   background-position 50% 15%
